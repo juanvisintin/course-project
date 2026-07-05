@@ -76,8 +76,8 @@ juce_add_plugin(
     Wtrm
   FORMATS
     Standalone
-    AU
     VST3
+    AAX
   IS_SYNTH
     FALSE
   NEEDS_MIDI_INPUT
